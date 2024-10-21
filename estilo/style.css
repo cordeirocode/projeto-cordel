@@ -56,7 +56,7 @@ section {
     font-family: var(--font03);
     font-size: 3.5vw;
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: fixed; /* efeito paralax */
 }
 
 section > p {
